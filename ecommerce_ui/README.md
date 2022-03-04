@@ -5,6 +5,8 @@ An Ecommerce Ui for both mobile and web.
 ## Getting Started
 
 This is a flutter app which is a demo to understand how to use Git.
+![image](https://user-images.githubusercontent.com/58341250/156776092-36ea104a-3539-4674-9227-1cceabe390d3.png)
+
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,4 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-![jozsef-szabo-eADcsFjYUiI-unsplash](https://user-images.githubusercontent.com/58341250/156773127-3acac7f8-346b-4036-88b4-2b808bf67f31.jpg)
+
